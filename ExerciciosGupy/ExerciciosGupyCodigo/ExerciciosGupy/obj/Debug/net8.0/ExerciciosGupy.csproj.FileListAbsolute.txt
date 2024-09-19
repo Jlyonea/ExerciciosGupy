@@ -1,0 +1,14 @@
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\bin\Debug\net8.0\ExerciciosGupy.exe
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\bin\Debug\net8.0\ExerciciosGupy.deps.json
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\bin\Debug\net8.0\ExerciciosGupy.runtimeconfig.json
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\bin\Debug\net8.0\ExerciciosGupy.dll
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\bin\Debug\net8.0\ExerciciosGupy.pdb
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.AssemblyInfoInputs.cache
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.AssemblyInfo.cs
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.csproj.CoreCompileInputs.cache
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.dll
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\refint\ExerciciosGupy.dll
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.pdb
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ExerciciosGupy.genruntimeconfig.cache
+C:\Users\jlyon\source\repos\ExerciciosGupy\ExerciciosGupy\obj\Debug\net8.0\ref\ExerciciosGupy.dll
